@@ -30,7 +30,7 @@ h1 {
 .hidden {
      position: absolute;
 	 left:390px;
-	 top: 70%px;
+	 top: 70%;
 	 z-index: 1;
      width: 400px;
      height: auto;
